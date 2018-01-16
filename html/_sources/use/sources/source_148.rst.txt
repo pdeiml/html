@@ -1,0 +1,24 @@
+:orphan:
+
+Source: BL Lacertae
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2007ApJ...666L..17A <../../output/data/2007ApJ...666L..17A/gammacat_2007ApJ...666L..17A_000148_sed.ecsv>`__
+
+* `2013ApJ...762...92A <../../output/data/2013ApJ...762...92A/gammacat_2013ApJ...762...92A_000148_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

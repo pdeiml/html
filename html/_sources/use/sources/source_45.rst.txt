@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1018-589 A
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2015A&A...577A.131H <../../output/data/2015A%2526A...577A.131H/gammacat_2015A%2526A...577A.131H_000045_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

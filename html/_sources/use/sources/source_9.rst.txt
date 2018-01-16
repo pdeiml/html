@@ -1,0 +1,22 @@
+:orphan:
+
+Source: 3C 58
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+TODO

@@ -1,0 +1,24 @@
+:orphan:
+
+Source: Tycho SNR
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2011ApJ...730L..20A <../../output/data/2011ApJ...730L..20A/gammacat_2011ApJ...730L..20A_000003_sed.ecsv>`__
+
+* `2017ApJ...836...23A <../../output/data/2017ApJ...836...23A/gammacat_2017ApJ...836...23A_000003_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

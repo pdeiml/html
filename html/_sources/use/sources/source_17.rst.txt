@@ -1,0 +1,22 @@
+:orphan:
+
+Source: RBS 0413
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2012ApJ...750...94A <../../output/data/2012ApJ...750...94A/gammacat_2012ApJ...750...94A_000017_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

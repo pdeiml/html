@@ -1,0 +1,22 @@
+:orphan:
+
+Source: Centaurus A
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+TODO

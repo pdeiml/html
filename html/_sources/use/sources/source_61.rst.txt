@@ -1,0 +1,24 @@
+:orphan:
+
+Source: HESS J1303-631
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2005A&A...439.1013A <../../output/data/2005A%2526A...439.1013A/gammacat_2005A%2526A...439.1013A_000061_sed.ecsv>`__
+
+* `2012A&A...548A..46H <../../output/data/2012A%2526A...548A..46H/gammacat_2012A%2526A...548A..46H_000061_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

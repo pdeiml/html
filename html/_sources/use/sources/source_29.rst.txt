@@ -1,0 +1,22 @@
+:orphan:
+
+Source: IC 443
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2009ApJ...698L.133A <../../output/data/2009ApJ...698L.133A/gammacat_2009ApJ...698L.133A_000029_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+Source: CTA 1
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2013ApJ...764...38A <../../output/data/2013ApJ...764...38A/gammacat_2013ApJ...764...38A_000001_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

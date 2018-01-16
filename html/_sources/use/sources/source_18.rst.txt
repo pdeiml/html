@@ -1,0 +1,22 @@
+:orphan:
+
+Source: NGC 1275
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+TODO

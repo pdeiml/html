@@ -1,0 +1,26 @@
+:orphan:
+
+Source: Vela Junior
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2005A&A...437L...7A <../../output/data/2005A%2526A...437L...7A/gammacat_2005A%2526A...437L...7A_000039_sed.ecsv>`__
+
+* `2007ApJ...661..236A <../../output/data/2007ApJ...661..236A/gammacat_2007ApJ...661..236A_000039_sed.ecsv>`__
+
+* `2016arXiv161101863H <../../output/data/2016arXiv161101863H/gammacat_2016arXiv161101863H_000039_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

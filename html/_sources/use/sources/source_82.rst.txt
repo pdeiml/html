@@ -1,0 +1,28 @@
+:orphan:
+
+Source: PG 1553+113
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008A&A...477..481A <../../output/data/2008A%2526A...477..481A/gammacat_2008A%2526A...477..481A_000082_sed.ecsv>`__
+
+* `2012ApJ...748...46A <../../output/data/2012ApJ...748...46A/gammacat_2012ApJ...748...46A_000082_sed.ecsv>`__
+
+* `2015ApJ...799....7A <../../output/data/2015ApJ...799....7A/gammacat_2015ApJ...799....7A_000082_sed.ecsv>`__
+
+* `2015ApJ...802...65A <../../output/data/2015ApJ...802...65A/gammacat_2015ApJ...802...65A_000082_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

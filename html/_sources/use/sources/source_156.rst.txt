@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1800-240B
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008A&A...481..401A <../../output/data/2008A%2526A...481..401A/gammacat_2008A%2526A...481..401A_000156_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

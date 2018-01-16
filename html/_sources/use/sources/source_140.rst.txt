@@ -1,0 +1,22 @@
+:orphan:
+
+Source: PKS 2005-489
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2010A&A...511A..52H <../../output/data/2010A%2526A...511A..52H/gammacat_2010A%2526A...511A..52H_000140_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

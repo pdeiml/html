@@ -1,0 +1,24 @@
+:orphan:
+
+Source: PKS 1424+240
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2014A&A...567A.135A <../../output/data/2014A%2526A...567A.135A/gammacat_2014A%2526A...567A.135A_000067_sed.ecsv>`__
+
+* `2014ApJ...785L..16A <../../output/data/2014ApJ...785L..16A/gammacat_2014ApJ...785L..16A_000067_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

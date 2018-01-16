@@ -1,0 +1,22 @@
+:orphan:
+
+Source: SNR G15.4+0.1
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2014A&A...562A..40H <../../output/data/2014A%2526A...562A..40H/gammacat_2014A%2526A...562A..40H_000117_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

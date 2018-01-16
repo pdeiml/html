@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1418-609
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2006A&A...456..245A <../../output/data/2006A%2526A...456..245A/gammacat_2006A%2526A...456..245A_000065_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

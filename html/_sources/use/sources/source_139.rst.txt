@@ -1,0 +1,22 @@
+:orphan:
+
+Source: MAGIC J2001+435
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+TODO

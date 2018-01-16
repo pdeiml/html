@@ -1,0 +1,22 @@
+:orphan:
+
+Source: H 2356-309
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2010A&A...516A..56H <../../output/data/2010A%2526A...516A..56H/gammacat_2010A%2526A...516A..56H_000155_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

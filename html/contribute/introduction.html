@@ -1,0 +1,279 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Introduction &mdash; gamma-cat  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="author" title="About these documents"
+              href="../about.html"/>
+        <link rel="index" title="Index"
+              href="../genindex.html"/>
+        <link rel="search" title="Search" href="../search.html"/>
+    <link rel="top" title="gamma-cat  documentation" href="../index.html"/>
+        <link rel="next" title="Input" href="input.html"/>
+        <link rel="prev" title="Changes" href="../changes.html"/> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> gamma-cat
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">About</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../about.html">About</a></li>
+</ul>
+<p class="caption"><span class="caption-text">User Documentation</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../use/index.html">Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../use/index.html#source-catalog">Source catalog</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../use/index.html#data-collection-by-source">Data collection by source</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../stats/index.html">Stats</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../changes.html">Changes</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Contributor Documentation</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="input.html">Input</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workflow.html">Workflow</a></li>
+<li class="toctree-l1"><a class="reference internal" href="code.html">Code</a></li>
+<li class="toctree-l1"><a class="reference internal" href="details.html">Details</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">gamma-cat</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Introduction</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/contribute/introduction.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="introduction">
+<h1>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h1>
+<p>So you want to contribute to gamma-cat?</p>
+<p>Really? Are you sure?</p>
+<p>Great! Read on …</p>
+<p>There are many ways to contribute to <strong>gamma-cat</strong>. We need more people that help
+with data entry, review data in gamma-cat for completeness and accuracy,
+improve the documentation, the data format schemas and the Python scripts.</p>
+<p>We will try to describe and explain how everything works here in the contributor documentation.
+But we realise that in the end we will probably fall short, and if you try to contribute
+you will have questions about YAML or ECSV or schemas or get stuck with a git on Python question.
+If that happens, please don’t give up, but contact us and we will help!</p>
+<p>Everything happens on <strong>Github</strong> here: <a class="reference external" href="https://www.github.com/gammapy/gamma-cat">https://www.github.com/gammapy/gamma-cat</a></p>
+<p>This is a git repository that contains everything related to gamma-cat: the data entry in the
+<code class="docutils literal"><span class="pre">input</span></code> folder, the script <code class="docutils literal"><span class="pre">make.py</span></code> and <code class="docutils literal"><span class="pre">gammacat</span></code> folder with the Python scripts to
+generate the output files, which are in the <code class="docutils literal"><span class="pre">output</span></code> folder. The documentation
+at <a class="reference external" href="https://gamma-cat.readthedocs.io">https://gamma-cat.readthedocs.io</a> is generated from the RST files in that repo. But not just
+all the files and version control is there, Github is also the place to file “issues” for question,
+discussion, feature or data entry requests, bug reports (see <a class="reference external" href="https://github.com/gammapy/gamma-cat/issues">https://github.com/gammapy/gamma-cat/issues</a>).
+And it is also the place where all changes and additions happen, via “pull requests”
+(see <a class="reference external" href="https://github.com/gammapy/gamma-cat/pulls">https://github.com/gammapy/gamma-cat/pulls</a> ).</p>
+<p>So if you want to contribute to gamma-cat, you have to make an account on Github.
+It’s free and should just take a minute.
+You can then find a lot of information about git and Github here: <a class="reference external" href="https://help.github.com/">https://help.github.com/</a></p>
+<p>There you will find documentation how to open “issues” and “pull requests” and resources how to learn git,
+as well as how to do basic things like edit or add a file directly via the Github web interface.
+This means that you can do some data entry or documentation improvements for gamma-cat in a simple way.
+If you’re new to Github and git, and the explanations below aren’t clear to you, then what you can do
+is to open a new issue in the gamma-cat issue tracker where you describe what you want to do
+(i.e. add or change something), and then we’ll try to help you do it, i.e. make your first pull request.</p>
+<p>The following pages give you more information, focusing mostly on how to
+do data entry for gamma-cat, since this will be the most common way for people to contribute.</p>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="input.html" class="btn btn-neutral float-right" title="Input" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../changes.html" class="btn btn-neutral" title="Changes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2016, gamma-cat contributors.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+:orphan:
+
+Source: MSH 15-5-02
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2005A&A...435L..17A <../../output/data/2005A%2526A...435L..17A/gammacat_2005A%2526A...435L..17A_000079_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

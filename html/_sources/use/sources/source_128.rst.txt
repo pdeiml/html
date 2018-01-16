@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1848-018
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008AIPC.1085..372C <../../output/data/2008AIPC.1085..372C/gammacat_2008AIPC.1085..372C_000128_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

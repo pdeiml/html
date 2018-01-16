@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1026-582
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2011A&A...525A..46H <../../output/data/2011A%2526A...525A..46H/gammacat_2011A%2526A...525A..46H_000047_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

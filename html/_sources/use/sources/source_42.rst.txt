@@ -1,0 +1,22 @@
+:orphan:
+
+Source: 1RXS J101015.9-311909
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2012A&A...542A..94H <../../output/data/2012A%2526A...542A..94H/gammacat_2012A%2526A...542A..94H_000042_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

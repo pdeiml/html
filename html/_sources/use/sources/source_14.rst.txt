@@ -1,0 +1,28 @@
+:orphan:
+
+Source: LS I +61 303
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008ApJ...679.1427A <../../output/data/2008ApJ...679.1427A/gammacat_2008ApJ...679.1427A_000014_sed.ecsv>`__
+
+* `2009ApJ...700.1034A <../../output/data/2009ApJ...700.1034A/gammacat_2009ApJ...700.1034A_000014_sed.ecsv>`__
+
+* `2013ApJ...779...88A <../../output/data/2013ApJ...779...88A/gammacat_2013ApJ...779...88A_000014_sed.ecsv>`__
+
+* `2016ApJ...817L...7A <../../output/data/2016ApJ...817L...7A/gammacat_2016ApJ...817L...7A_000014_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

@@ -1,0 +1,22 @@
+:orphan:
+
+Source: 1ES 1741+196
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2016MNRAS.459.2550A <../../output/data/2016MNRAS.459.2550A/gammacat_2016MNRAS.459.2550A_000105_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

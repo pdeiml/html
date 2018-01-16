@@ -1,0 +1,24 @@
+:orphan:
+
+Source: W Comae
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008ApJ...684L..73A <../../output/data/2008ApJ...684L..73A/gammacat_2008ApJ...684L..73A_000054_sed.ecsv>`__
+
+* `2009ApJ...707..612A <../../output/data/2009ApJ...707..612A/gammacat_2009ApJ...707..612A_000054_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

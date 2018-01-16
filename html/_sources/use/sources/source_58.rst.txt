@@ -1,0 +1,24 @@
+:orphan:
+
+Source: M 87
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008ApJ...679..397A <../../output/data/2008ApJ...679..397A/gammacat_2008ApJ...679..397A_000058_sed.ecsv>`__
+
+* `2010ApJ...716..819A <../../output/data/2010ApJ...716..819A/gammacat_2010ApJ...716..819A_000058_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

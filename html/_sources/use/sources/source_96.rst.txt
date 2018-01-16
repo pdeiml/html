@@ -1,0 +1,24 @@
+:orphan:
+
+Source: RX J1713.7-3946
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2004Natur.432...75A <../../output/data/2004Natur.432...75A/gammacat_2004Natur.432...75A_000096_sed.ecsv>`__
+
+* `2016arXiv160908671H <../../output/data/2016arXiv160908671H/gammacat_2016arXiv160908671H_000096_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

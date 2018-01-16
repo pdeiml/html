@@ -1,0 +1,22 @@
+:orphan:
+
+Source: B3 2247+381
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2012A&A...539A.118A <../../output/data/2012A%2526A...539A.118A/gammacat_2012A%2526A...539A.118A_000152_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

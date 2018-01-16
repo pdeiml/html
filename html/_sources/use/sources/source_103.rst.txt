@@ -1,0 +1,24 @@
+:orphan:
+
+Source: HESS J1731-347
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2008A&A...477..353A <../../output/data/2008A%2526A...477..353A/gammacat_2008A%2526A...477..353A_000103_sed.ecsv>`__
+
+* `2011A&A...531A..81H <../../output/data/2011A%2526A...531A..81H/gammacat_2011A%2526A...531A..81H_000103_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

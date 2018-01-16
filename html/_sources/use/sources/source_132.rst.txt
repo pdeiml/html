@@ -1,0 +1,24 @@
+:orphan:
+
+Source: MGRO J1908+06
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2009A&A...499..723A <../../output/data/2009A%2526A...499..723A/gammacat_2009A%2526A...499..723A_000132_sed.ecsv>`__
+
+* `2014ApJ...787..166A <../../output/data/2014ApJ...787..166A/gammacat_2014ApJ...787..166A_000132_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

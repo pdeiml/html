@@ -1,0 +1,22 @@
+:orphan:
+
+Source: Galactic Centre ridge
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+TODO

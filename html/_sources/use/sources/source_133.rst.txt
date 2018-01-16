@@ -1,0 +1,22 @@
+:orphan:
+
+Source: W 49B
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2016arXiv160900600H <../../output/data/2016arXiv160900600H/gammacat_2016arXiv160900600H_000133_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

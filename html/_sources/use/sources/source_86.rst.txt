@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1632-478
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2006ApJ...636..777A <../../output/data/2006ApJ...636..777A/gammacat_2006ApJ...636..777A_000086_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO

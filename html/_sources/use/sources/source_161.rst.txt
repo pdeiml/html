@@ -1,0 +1,22 @@
+:orphan:
+
+Source: HESS J1826-130
+--------------------------------
+
+Basic source info
+-----------------
+
+TODO
+
+SEDs
+----
+
+
+* `2017arXiv170107002A <../../output/data/2017arXiv170107002A/gammacat_2017arXiv170107002A_000161_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+TODO
