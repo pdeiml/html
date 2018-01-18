@@ -1,0 +1,33 @@
+:orphan:
+
+Source: PSR B1259-63
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2005A&A...442....1A <../../output/data/2005A%2526A...442....1A/gammacat_2005A%2526A...442....1A_000060_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2005A&A...442....1A <../../output/data/2005A%2526A...442....1A/gammacat_2005A%2526A...442....1A_000060_ds.yaml>`__
+
+* `2009A&A...507..389A <../../output/data/2009A%2526A...507..389A/gammacat_2009A%2526A...507..389A_000060_ds.yaml>`__
+
+* `2013A&A...551A..94H <../../output/data/2013A%2526A...551A..94H/gammacat_2013A%2526A...551A..94H_000060_ds.yaml>`__

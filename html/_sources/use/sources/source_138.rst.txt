@@ -1,0 +1,41 @@
+:orphan:
+
+Source: 1ES 1959+650
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2003A&A...406L...9A <../../output/data/2003A%2526A...406L...9A/gammacat_2003A%2526A...406L...9A_000138_sed.ecsv>`__
+
+* `2005ApJ...621..181D <../../output/data/2005ApJ...621..181D/gammacat_2005ApJ...621..181D_000138_sed.ecsv>`__
+
+* `2008ApJ...679.1029T <../../output/data/2008ApJ...679.1029T/gammacat_2008ApJ...679.1029T_000138_sed.ecsv>`__
+
+* `2013ApJ...775....3A <../../output/data/2013ApJ...775....3A/gammacat_2013ApJ...775....3A_000138_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2003A&A...406L...9A <../../output/data/2003A%2526A...406L...9A/gammacat_2003A%2526A...406L...9A_000138_lc.ecsv>`__
+
+* `2003ApJ...583L...9H <../../output/data/2003ApJ...583L...9H/gammacat_2003ApJ...583L...9H_000138_lc.ecsv>`__
+
+* `2003ICRC....5.2615T <../../output/data/2003ICRC....5.2615T/gammacat_2003ICRC....5.2615T_000138_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2006ApJ...639..761A <../../output/data/2006ApJ...639..761A/gammacat_2006ApJ...639..761A_000138_ds.yaml>`__
+
+* `2013ApJ...775....3A <../../output/data/2013ApJ...775....3A/gammacat_2013ApJ...775....3A_000138_ds.yaml>`__

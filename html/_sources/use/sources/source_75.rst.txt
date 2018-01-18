@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1503-582
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2008AIPC.1085..281R <../../output/data/2008AIPC.1085..281R/gammacat_2008AIPC.1085..281R_000075_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008AIPC.1085..281R <../../output/data/2008AIPC.1085..281R/gammacat_2008AIPC.1085..281R_000075_ds.yaml>`__

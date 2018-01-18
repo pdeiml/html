@@ -1,0 +1,33 @@
+:orphan:
+
+Source: PKS 2005-489
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2010A&A...511A..52H <../../output/data/2010A%2526A...511A..52H/gammacat_2010A%2526A...511A..52H_000140_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2005A&A...436L..16A <../../output/data/2005A%2526A...436L..17A/gammacat_2005A%2526A...436L..16A_000140_ds.yaml>`__
+
+* `2010A&A...511A..52A <../../output/data/2010A%2526A...511A..52H/gammacat_2010A%2526A...511A..52A_000140_ds.yaml>`__
+
+* `2011A&A...533A.110H <../../output/data/2011A%2526A...533A.110H/gammacat_2011A%2526A...533A.110H_000140_ds.yaml>`__

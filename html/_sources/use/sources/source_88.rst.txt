@@ -1,0 +1,33 @@
+:orphan:
+
+Source: HESS J1640-465
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2006ApJ...636..777A <../../output/data/2006ApJ...636..777A/gammacat_2006ApJ...636..777A_000088_sed.ecsv>`__
+
+* `2014MNRAS.439.2828A <../../output/data/2014MNRAS.439.2828A/gammacat_2014MNRAS.439.2828A_000088_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2006ApJ...636..777A <../../output/data/2006ApJ...636..777A/gammacat_2006ApJ...636..777A_000088_ds.yaml>`__
+
+* `2014MNRAS.439.2828A <../../output/data/2014MNRAS.439.2828A/gammacat_2014MNRAS.439.2828A_000088_ds.yaml>`__

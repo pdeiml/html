@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1800-240A
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008A&A...481..401A <../../output/data/2008A%2526A...481..401A/gammacat_2008A%2526A...481..401A_000111_ds.yaml>`__

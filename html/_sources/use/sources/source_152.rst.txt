@@ -1,0 +1,29 @@
+:orphan:
+
+Source: B3 2247+381
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2012A&A...539A.118A <../../output/data/2012A%2526A...539A.118A/gammacat_2012A%2526A...539A.118A_000152_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2012A&A...539A.118A <../../output/data/2012A%2526A...539A.118A/gammacat_2012A%2526A...539A.118A_000152_ds.yaml>`__

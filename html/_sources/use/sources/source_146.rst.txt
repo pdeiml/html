@@ -1,0 +1,31 @@
+:orphan:
+
+Source: TeV J2032+4130
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2014ApJ...783...16A <../../output/data/2014ApJ...783...16A/gammacat_2014ApJ...783...16A_000146_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2012ApJ...753..159A <../../output/data/2012ApJ...753..159A/gammacat_2012ApJ...753..159A_000146_ds.yaml>`__
+
+* `2014ApJ...783...16A <../../output/data/2014ApJ...783...16A/gammacat_2014ApJ...783...16A_000146_ds.yaml>`__

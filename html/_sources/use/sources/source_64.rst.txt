@@ -1,0 +1,31 @@
+:orphan:
+
+Source: HESS J1356-645
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2011A&A...533A.103H <../../output/data/2011A%2526A...533A.103H/gammacat_2011A%2526A...533A.103H_000064_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008AIPC.1085..285R <../../output/data/2008AIPC.1085..285R/gammacat_2008AIPC.1085..285R_000064_ds.yaml>`__
+
+* `2011A&A...533A.103H <../../output/data/2011A%2526A...533A.103H/gammacat_2011A%2526A...533A.103H_000064_ds.yaml>`__

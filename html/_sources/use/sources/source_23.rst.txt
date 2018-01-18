@@ -1,0 +1,29 @@
+:orphan:
+
+Source: RGB J0521+212
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2013ApJ...776...69A <../../output/data/2013ApJ...776...69A/gammacat_2013ApJ...776...69A_000023_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2013ApJ...776...69A <../../output/data/2013ApJ...776...69A/gammacat_2013ApJ...776...69A_000023_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2013ApJ...776...69A <../../output/data/2013ApJ...776...69A/gammacat_2013ApJ...776...69A_000023_ds.yaml>`__

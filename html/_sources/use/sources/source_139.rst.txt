@@ -1,0 +1,29 @@
+:orphan:
+
+Source: MAGIC J2001+435
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* None

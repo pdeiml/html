@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 3C 58
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2014A&A...567L...8A <../../output/data/2014A%2526A...567L...8A/gammacat_2014A%2526A...567L...8A_000009_ds.yaml>`__

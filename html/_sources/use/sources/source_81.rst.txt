@@ -1,0 +1,29 @@
+:orphan:
+
+Source: SNR G327.1-1.1
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2011ICRC....7..185A <../../output/data/2011ICRC....7..185A/gammacat_2011ICRC....7..185A_000081_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2011ICRC....7..185A <../../output/data/2011ICRC....7..185A/gammacat_2011ICRC....7..185A_000081_ds.yaml>`__

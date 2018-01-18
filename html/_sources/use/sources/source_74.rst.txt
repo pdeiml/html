@@ -1,0 +1,29 @@
+:orphan:
+
+Source: SN 1006
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2010A&A...516A..62A <../../output/data/2010A%2526A...516A..62A/gammacat_2010A%2526A...516A..62A_000074_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2010A&A...516A..62A <../../output/data/2010A%2526A...516A..62A/gammacat_2010A%2526A...516A..62A_000074_ds.yaml>`__

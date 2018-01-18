@@ -1,0 +1,29 @@
+:orphan:
+
+Source: Gamma Cygni
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2013ApJ...770...93A <../../output/data/2013ApJ...770...93A/gammacat_2013ApJ...770...93A_000144_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2013ApJ...770...93A <../../output/data/2013ApJ...770...93A/gammacat_2013ApJ...770...93A_000144_ds.yaml>`__

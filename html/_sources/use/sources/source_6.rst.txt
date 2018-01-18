@@ -1,0 +1,29 @@
+:orphan:
+
+Source: NGC 253
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2009Sci...326.1080A <../../output/data/2009Sci...326.1080A/gammacat_2009Sci...326.1080A_000006_ds.yaml>`__

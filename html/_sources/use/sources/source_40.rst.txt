@@ -1,0 +1,29 @@
+:orphan:
+
+Source: M 82
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2009Natur.462..770V <../../output/data/2009Natur.462..770V/gammacat_2009Natur.462..770V_000040_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2009Natur.462..770V <../../output/data/2009Natur.462..770V/gammacat_2009Natur.462..770V_000040_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2009Natur.462..770V <../../output/data/2009Natur.462..770V/gammacat_2009Natur.462..770V_000040_ds.yaml>`__

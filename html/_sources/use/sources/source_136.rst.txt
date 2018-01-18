@@ -1,0 +1,29 @@
+:orphan:
+
+Source: SNR G054.1+00.3
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2010ApJ...719L..69A <../../output/data/2010ApJ...719L..69A/gammacat_2010ApJ...719L..69A_000136_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2010ApJ...719L..69A <../../output/data/2010ApJ...719L..69A/gammacat_2010ApJ...719L..69A_000136_ds.yaml>`__

@@ -1,0 +1,39 @@
+:orphan:
+
+Source: 1ES 1218+304
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2009ApJ...695.1370A <../../output/data/2009ApJ...695.1370A/gammacat_2009ApJ...695.1370A_000055_sed.ecsv>`__
+
+* `2010ApJ...709L.163A <../../output/data/2010ApJ...709L.163A/gammacat_2010ApJ...709L.163A_000055_sed.ecsv>`__
+
+* `2014ApJ...788..158A <../../output/data/2014ApJ...788..158A/gammacat_2014ApJ...788..158A_000055_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2006ApJ...642L.119A <../../output/data/2006ApJ...642L.119A/gammacat_2006ApJ...642L.119A_000055_ds.yaml>`__
+
+* `2009ApJ...695.1370A <../../output/data/2009ApJ...695.1370A/gammacat_2009ApJ...695.1370A_000055_ds.yaml>`__
+
+* `2010ApJ...709L.163A <../../output/data/2010ApJ...709L.163A/gammacat_2010ApJ...709L.163A_000055_ds.yaml>`__
+
+* `2014ApJ...788..158A <../../output/data/2014ApJ...788..158A/gammacat_2014ApJ...788..158A_000055_ds.yaml>`__

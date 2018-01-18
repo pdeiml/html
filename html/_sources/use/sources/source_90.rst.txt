@@ -1,0 +1,29 @@
+:orphan:
+
+Source: Westerlund 1
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2012A&A...537A.114A <../../output/data/2012A%2526A...537A.114A/gammacat_2012A%2526A...537A.114A_000090_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2012A&A...537A.114A <../../output/data/2012A%2526A...537A.114A/gammacat_2012A%2526A...537A.114A_000090_ds.yaml>`__

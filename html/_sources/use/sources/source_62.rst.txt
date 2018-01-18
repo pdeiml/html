@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 1ES 1312-423
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2013MNRAS.434.1889H <../../output/data/2013MNRAS.434.1889H/gammacat_2013MNRAS.434.1889H_000062_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2013MNRAS.434.1889H <../../output/data/2013MNRAS.434.1889H/gammacat_2013MNRAS.434.1889H_000062_ds.yaml>`__

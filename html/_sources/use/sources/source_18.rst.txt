@@ -1,0 +1,35 @@
+:orphan:
+
+Source: NGC 1275
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2010ApJ...710..634A <../../output/data/2010ApJ...710..634A/gammacat_2010ApJ...710..634A_000018_ds.yaml>`__
+
+* `2012A&A...539L...2A <../../output/data/2012A%2526A...539L...2A/gammacat_2012A%2526A...539L...2A_000018_ds.yaml>`__
+
+* `2014A&A...564A...5A <../../output/data/2014A%2526A...564A...5A/gammacat_2014A%2526A...564A...5A_000018_ds.yaml>`__
+
+* `2016A&A...589A..33A <../../output/data/2016A%2526A...589A..33A/gammacat_2016A%2526A...589A..33A_000018_ds.yaml>`__

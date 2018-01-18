@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 1ES 1440+122
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2016MNRAS.461..202A <../../output/data/2016MNRAS.461..202A/gammacat_2016MNRAS.461..202A_000071_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2016MNRAS.461..202A <../../output/data/2016MNRAS.461..202A/gammacat_2016MNRAS.461..202A_000071_ds.yaml>`__

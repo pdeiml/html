@@ -1,0 +1,29 @@
+:orphan:
+
+Source: RGB J0152+017
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2008A&A...481L.103A <../../output/data/2008A%2526A...481L.103A/gammacat_2008A%2526A...481L.103A_000008_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008A&A...481L.103A <../../output/data/2008A%2526A...481L.103A/gammacat_2008A%2526A...481L.103A_000008_ds.yaml>`__

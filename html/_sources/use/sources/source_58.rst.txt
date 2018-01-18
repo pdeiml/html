@@ -1,0 +1,45 @@
+:orphan:
+
+Source: M 87
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2008ApJ...679..397A <../../output/data/2008ApJ...679..397A/gammacat_2008ApJ...679..397A_000058_sed.ecsv>`__
+
+* `2010ApJ...716..819A <../../output/data/2010ApJ...716..819A/gammacat_2010ApJ...716..819A_000058_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2012ApJ...746..141A <../../output/data/2012ApJ...746..141A/gammacat_2012ApJ...746..141A_000058_lc.ecsv>`__
+
+* `2012ApJ...746..151A <../../output/data/2012ApJ...746..151A/gammacat_2012ApJ...746..151A_000058_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2008ApJ...679..397A <../../output/data/2008ApJ...679..397A/gammacat_2008ApJ...679..397A_000058_ds.yaml>`__
+
+* `2008ApJ...685L..23A <../../output/data/2008ApJ...685L..23A/gammacat_2008ApJ...685L..23A_000058_ds.yaml>`__
+
+* `2009Sci...325..444A <../../output/data/2009Sci...325..444A/gammacat_2009Sci...325..444A_000058_ds.yaml>`__
+
+* `2010ApJ...716..819A <../../output/data/2010ApJ...716..819A/gammacat_2010ApJ...716..819A_000058_ds.yaml>`__
+
+* `2012A&A...544A..96A <../../output/data/2012A%2526A...544A..96A/gammacat_2012A%2526A...544A..96A_000058_ds.yaml>`__
+
+* `2012ApJ...746..141A <../../output/data/2012ApJ...746..141A/gammacat_2012ApJ...746..141A_000058_ds.yaml>`__
+
+* `2012ApJ...746..151A <../../output/data/2012ApJ...746..151A/gammacat_2012ApJ...746..151A_000058_ds.yaml>`__

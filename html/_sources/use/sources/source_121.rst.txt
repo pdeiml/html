@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1832-093
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2015MNRAS.446.1163H <../../output/data/2015MNRAS.446.1163H/gammacat_2015MNRAS.446.1163H_000121_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2015MNRAS.446.1163H <../../output/data/2015MNRAS.446.1163H/gammacat_2015MNRAS.446.1163H_000121_ds.yaml>`__

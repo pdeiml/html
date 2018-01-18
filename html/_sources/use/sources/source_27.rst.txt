@@ -1,0 +1,33 @@
+:orphan:
+
+Source: N 157B
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2012A&A...545L...2H <../../output/data/2012A%2526A...545L...2H/gammacat_2012A%2526A...545L...2H_000027_sed.ecsv>`__
+
+* `2015Sci...347..406H <../../output/data/2015Sci...347..406H/gammacat_2015Sci...347..406H_000027_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2012A&A...545L...2H <../../output/data/2012A%2526A...545L...2H/gammacat_2012A%2526A...545L...2H_000027_ds.yaml>`__
+
+* `2015Sci...347..406H <../../output/data/2015Sci...347..406H/gammacat_2015Sci...347..406H_000027_ds.yaml>`__

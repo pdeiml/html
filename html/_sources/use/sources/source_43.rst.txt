@@ -1,0 +1,33 @@
+:orphan:
+
+Source: 1ES 1011+496
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2007ApJ...667L..21A <../../output/data/2007ApJ...667L..21A/gammacat_2007ApJ...667L..21A_000043_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2016A&A...590A..24A <../../output/data/2016A%2526A...590A..24A/gammacat_2016A%2526A...590A..24A_000043_ds.yaml>`__
+
+* `2016A&A...591A..10A <../../output/data/2016A%2526A...591A..10A/gammacat_2016A%2526A...591A..10A_000043_ds.yaml>`__
+
+* `2016MNRAS.459.2286A <../../output/data/2016MNRAS.459.2286A/gammacat_2016MNRAS.459.2286A_000043_ds.yaml>`__

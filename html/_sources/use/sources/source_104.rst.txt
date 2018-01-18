@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1741-302
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008AIPC.1085..249T <../../output/data/2008AIPC.1085..249T/gammacat_2008AIPC.1085..249T_000104_ds.yaml>`__

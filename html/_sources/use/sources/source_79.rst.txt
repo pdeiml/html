@@ -1,0 +1,29 @@
+:orphan:
+
+Source: MSH 15-5-02
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2005A&A...435L..17A <../../output/data/2005A%2526A...435L..17A/gammacat_2005A%2526A...435L..17A_000079_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2005A&A...435L..17A <../../output/data/2005A%2526A...435L..17A/gammacat_2005A%2526A...435L..17A_000079_ds.yaml>`__

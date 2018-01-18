@@ -1,0 +1,33 @@
+:orphan:
+
+Source: HESS J1745-303
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2006ApJ...636..777A <../../output/data/2006ApJ...636..777A/gammacat_2006ApJ...636..777A_000108_sed.ecsv>`__
+
+* `2008A&A...483..509A <../../output/data/2008A%2526A...483..509A/gammacat_2008A%2526A...483..509A_000108_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2006ApJ...636..777A <../../output/data/2006ApJ...636..777A/gammacat_2006ApJ...636..777A_000108_ds.yaml>`__
+
+* `2008A&A...483..509A <../../output/data/2008A%2526A...483..509A/gammacat_2008A%2526A...483..509A_000108_ds.yaml>`__

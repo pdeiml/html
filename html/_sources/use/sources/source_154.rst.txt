@@ -1,0 +1,39 @@
+:orphan:
+
+Source: 1ES 2344+514
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2005ApJ...634..947S <../../output/data/2005ApJ...634..947S/gammacat_2005ApJ...634..947S_000154_sed.ecsv>`__
+
+* `2007ApJ...662..892A <../../output/data/2007ApJ...662..892A/gammacat_2007ApJ...662..892A_000154_sed.ecsv>`__
+
+* `2011ApJ...738..169A <../../output/data/2011ApJ...738..169A/gammacat_2011ApJ...738..169A_000154_sed.ecsv>`__
+
+* `2013A&A...556A..67A <../../output/data/2013A%2526A...556A..67A/gammacat_2013A%2526A...556A..67A_000154_sed.ecsv>`__
+
+* `2017MNRAS.471.2117A <../../output/data/2017MNRAS.471.2117A/gammacat_2017MNRAS.471.2117A_000154_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2017MNRAS.471.2117A <../../output/data/2017MNRAS.471.2117A/gammacat_2017MNRAS.471.2117A_000154_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2013A&A...556A..67A <../../output/data/2013A%2526A...556A..67A/gammacat_2013A%2526A...556A..67A_000154_ds.yaml>`__
+
+* `2017MNRAS.471.2117A <../../output/data/2017MNRAS.471.2117A/gammacat_2017MNRAS.471.2117A_000154_ds.yaml>`__

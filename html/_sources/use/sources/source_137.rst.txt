@@ -1,0 +1,31 @@
+:orphan:
+
+Source: HESS J1943+213
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2016arXiv161005799S <../../output/data/2016arXiv161005799S/gammacat_2016arXiv161005799S_000137_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2016arXiv161005799S <../../output/data/2016arXiv161005799S/gammacat_2016arXiv161005799S_000137_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2011A&A...529A..49H <../../output/data/2011A%2526A...529A..49H/gammacat_2011A%2526A...529A..49H_000137_ds.yaml>`__
+
+* `2016arXiv161005799S <../../output/data/2016arXiv161005799S/gammacat_2016arXiv161005799S_000137_ds.yaml>`__

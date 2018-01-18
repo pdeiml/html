@@ -1,0 +1,35 @@
+:orphan:
+
+Source: HESS J1303-631
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2005A&A...439.1013A <../../output/data/2005A%2526A...439.1013A/gammacat_2005A%2526A...439.1013A_000061_sed.ecsv>`__
+
+* `2012A&A...548A..46H <../../output/data/2012A%2526A...548A..46H/gammacat_2012A%2526A...548A..46H_000061_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2005A&A...439.1013A <../../output/data/2005A%2526A...439.1013A/gammacat_2005A%2526A...439.1013A_000061_ds.yaml>`__
+
+* `2012A&A...548A..46H <../../output/data/2012A%2526A...548A..46H/gammacat_2012A%2526A...548A..46H_000061_ds.yaml>`__
+
+* `2014Sci...346.1080A <../../output/data/2014Sci...346.1080A/gammacat_2014Sci...346.1080A_000061_ds.yaml>`__

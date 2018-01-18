@@ -1,0 +1,39 @@
+:orphan:
+
+Source: 3C 66A
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2009ApJ...693L.104A <../../output/data/2009ApJ...693L.104A/gammacat_2009ApJ...693L.104A_000011_sed.ecsv>`__
+
+* `2011ApJ...726...43A <../../output/data/2011ApJ...726...43A/gammacat_2011ApJ...726...43A_000011_sed.ecsv>`__
+
+* `2011ApJ...726...58A <../../output/data/2011ApJ...726...58A/gammacat_2011ApJ...726...58A_000011_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2009ApJ...692L..29A <../../output/data/2009ApJ...692L..29A/gammacat_2009ApJ...692L..29A_000011_ds.yaml>`__
+
+* `2009ApJ...693L.104A <../../output/data/2009ApJ...693L.104A/gammacat_2009ApJ...693L.104A_000011_ds.yaml>`__
+
+* `2011ApJ...726...43A <../../output/data/2011ApJ...726...43A/gammacat_2011ApJ...726...43A_000011_ds.yaml>`__
+
+* `2011ApJ...726...58A <../../output/data/2011ApJ...726...58A/gammacat_2011ApJ...726...58A_000011_ds.yaml>`__

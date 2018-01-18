@@ -1,0 +1,33 @@
+:orphan:
+
+Source: BL Lacertae
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2007ApJ...666L..17A <../../output/data/2007ApJ...666L..17A/gammacat_2007ApJ...666L..17A_000148_sed.ecsv>`__
+
+* `2013ApJ...762...92A <../../output/data/2013ApJ...762...92A/gammacat_2013ApJ...762...92A_000148_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2013ApJ...762...92A <../../output/data/2013ApJ...762...92A/gammacat_2013ApJ...762...92A_000148_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2013ApJ...762...92A <../../output/data/2013ApJ...762...92A/gammacat_2013ApJ...762...92A_000148_ds.yaml>`__
+
+* `2015MNRAS.451..739A <../../output/data/2015MNRAS.451..739A/gammacat_2015MNRAS.451..739A_000148_ds.yaml>`__

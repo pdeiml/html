@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1912+101
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2008A&A...484..435A <../../output/data/2008A%2526A...484..435A/gammacat_2008A%2526A...484..435A_000134_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008A&A...484..435A <../../output/data/2008A%2526A...484..435A/gammacat_2008A%2526A...484..435A_000134_ds.yaml>`__

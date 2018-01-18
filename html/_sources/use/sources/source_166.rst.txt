@@ -1,0 +1,29 @@
+:orphan:
+
+Source: Crab pulsar
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2011Sci...334...69V <../../output/data/2011Sci...334...69V/gammacat_2011Sci...334...69V_000166_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2011Sci...334...69V <../../output/data/2011Sci...334...69V/gammacat_2011Sci...334...69V_000166_ds.yaml>`__

@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 1ES 0033+595
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2015MNRAS.446..217A <../../output/data/2015MNRAS.446..217A/gammacat_2015MNRAS.446..217A_000005_ds.yaml>`__

@@ -1,0 +1,29 @@
+:orphan:
+
+Source: H 1426+428
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2003A&A...403..523A <../../output/data/2003A%2526A...403..523A/gammacat_2003A%2526A...403..523A_000069_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* None

@@ -1,0 +1,43 @@
+:orphan:
+
+Source: Crab nebula
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2006A&A...457..899A <../../output/data/2006A%2526A...457..899A/gammacat_2006A%2526A...457..899A_000025_sed.ecsv>`__
+
+* `2008ICRC....2..803K <../../output/data/2008ICRC....2..803K/gammacat_2008ICRC....2..803K_000025_sed.ecsv>`__
+
+* `2014ApJ...781L..11A <../../output/data/2014ApJ...781L..11A/gammacat_2014ApJ...781L..11A_000025_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2014ApJ...781L..11A <../../output/data/2014ApJ...781L..11A/gammacat_2014ApJ...781L..11A_000025_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2006A&A...457..899A <../../output/data/2006A%2526A...457..899A/gammacat_2006A%2526A...457..899A_000025_ds.yaml>`__
+
+* `2008ApJ...674.1037A <../../output/data/2008ApJ...674.1037A/gammacat_2008ApJ...674.1037A_000025_ds.yaml>`__
+
+* `2008ICRC....2..803K <../../output/data/2008ICRC....2..803K/gammacat_2008ICRC....2..803K_000025_ds.yaml>`__
+
+* `2014A&A...562L...4H <../../output/data/2014A%2526A...562L...4H/gammacat_2014A%2526A...562L...4H_000025_ds.yaml>`__
+
+* `2014ApJ...781L..11A <../../output/data/2014ApJ...781L..11A/gammacat_2014ApJ...781L..11A_000025_ds.yaml>`__
+
+* `2015JHEAp...5...30A <../../output/data/2015JHEAp...5...30A/gammacat_2015JHEAp...5...30A_000025_ds.yaml>`__

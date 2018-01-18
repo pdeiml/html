@@ -1,0 +1,63 @@
+:orphan:
+
+Source: LS I +61 303
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2008ApJ...679.1427A <../../output/data/2008ApJ...679.1427A/gammacat_2008ApJ...679.1427A_000014_sed.ecsv>`__
+
+* `2009ApJ...700.1034A <../../output/data/2009ApJ...700.1034A/gammacat_2009ApJ...700.1034A_000014_sed.ecsv>`__
+
+* `2013ApJ...779...88A <../../output/data/2013ApJ...779...88A/gammacat_2013ApJ...779...88A_000014_sed.ecsv>`__
+
+* `2016ApJ...817L...7A <../../output/data/2016ApJ...817L...7A/gammacat_2016ApJ...817L...7A_000014_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2008ApJ...679.1427A <../../output/data/2008ApJ...679.1427A/gammacat_2008ApJ...679.1427A_000014_lc.ecsv>`__
+
+* `2009ApJ...700.1034A <../../output/data/2009ApJ...700.1034A/gammacat_2009ApJ...700.1034A_000014_lc.ecsv>`__
+
+* `2011ApJ...738....3A <../../output/data/2011ApJ...738....3A/gammacat_2011ApJ...738....3A_000014_lc.ecsv>`__
+
+* `2013ApJ...779...88A <../../output/data/2013ApJ...779...88A/gammacat_2013ApJ...779...88A_000014_lc.ecsv>`__
+
+* `2016ApJ...817L...7A <../../output/data/2016ApJ...817L...7A/gammacat_2016ApJ...817L...7A_000014_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2006sci...312.1771A <../../output/data/2006Sci...312.1771A/gammacat_2006sci...312.1771A_000014_ds.yaml>`__
+
+* `2008ApJ...679.1427A <../../output/data/2008ApJ...679.1427A/gammacat_2008ApJ...679.1427A_000014_ds.yaml>`__
+
+* `2008ApJ...684.1351A <../../output/data/2008ApJ...684.1351A/gammacat_2008ApJ...684.1351A_000014_ds.yaml>`__
+
+* `2009ApJ...693..303A <../../output/data/2009ApJ...693..303A/gammacat_2009ApJ...693..303A_000014_ds.yaml>`__
+
+* `2009ApJ...700.1034A <../../output/data/2009ApJ...700.1034A/gammacat_2009ApJ...700.1034A_000014_ds.yaml>`__
+
+* `2009ApJ...706L..27A <../../output/data/2009ApJ...706L..27A/gammacat_2009ApJ...706L..27A_000014_ds.yaml>`__
+
+* `2011ApJ...738....3A <../../output/data/2011ApJ...738....3A/gammacat_2011ApJ...738....3A_000014_ds.yaml>`__
+
+* `2012ApJ...746...80A <../../output/data/2012ApJ...746...80A/gammacat_2012ApJ...746...80A_000014_ds.yaml>`__
+
+* `2013ApJ...779...88A <../../output/data/2013ApJ...779...88A/gammacat_2013ApJ...779...88A_000014_ds.yaml>`__
+
+* `2016A&A...591A..76A <../../output/data/2016A%2526A...591A..76A/gammacat_2016A%2526A...591A..76A_000014_ds.yaml>`__
+
+* `2016ApJ...817L...7A <../../output/data/2016ApJ...817L...7A/gammacat_2016ApJ...817L...7A_000014_ds.yaml>`__

@@ -1,0 +1,31 @@
+:orphan:
+
+Source: RCW 86
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2016arXiv160104461H <../../output/data/2016arXiv160104461H/gammacat_2016arXiv160104461H_000070_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2009ApJ...692.1500A <../../output/data/2009ApJ...692.1500A/gammacat_2009ApJ...692.1500A_000070_ds.yaml>`__
+
+* `2016arXiv160104461H <../../output/data/2016arXiv160104461H/gammacat_2016arXiv160104461H_000070_ds.yaml>`__

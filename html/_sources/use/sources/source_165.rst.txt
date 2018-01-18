@@ -1,0 +1,29 @@
+:orphan:
+
+Source: VER J1746-289
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2016ApJ...821..129A <../../output/data/2016ApJ...821..129A/gammacat_2016ApJ...821..129A_000165_ds.yaml>`__

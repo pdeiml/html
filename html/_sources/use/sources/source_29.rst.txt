@@ -1,0 +1,33 @@
+:orphan:
+
+Source: IC 443
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2009ApJ...698L.133A <../../output/data/2009ApJ...698L.133A/gammacat_2009ApJ...698L.133A_000029_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2007ApJ...664L..87A <../../output/data/2007ApJ...664L..87A/gammacat_2007ApJ...664L..87A_000029_ds.yaml>`__
+
+* `2009ApJ...698L.133A <../../output/data/2009ApJ...698L.133A/gammacat_2009ApJ...698L.133A_000029_ds.yaml>`__
+
+* `2015arXiv151201911H <../../output/data/2015arXiv151201911H/gammacat_2015arXiv151201911H_000029_ds.yaml>`__

@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 3C 279
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2008Sci...320.1752M <../../output/data/2008Sci...320.1752M/gammacat_2008Sci...320.1752M_000059_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2011A&A...530A...4A <../../output/data/2011A%2526A...530A...4A/gammacat_2011A%2526A...530A...4A_000059_ds.yaml>`__

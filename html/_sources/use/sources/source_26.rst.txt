@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 30 Dor C
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2015Sci...347..406H <../../output/data/2015Sci...347..406H/gammacat_2015Sci...347..406H_000026_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2015Sci...347..406H <../../output/data/2015Sci...347..406H/gammacat_2015Sci...347..406H_000026_ds.yaml>`__

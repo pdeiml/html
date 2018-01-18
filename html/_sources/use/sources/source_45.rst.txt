@@ -1,0 +1,31 @@
+:orphan:
+
+Source: HESS J1018-589 A
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2015A&A...577A.131H <../../output/data/2015A%2526A...577A.131H/gammacat_2015A%2526A...577A.131H_000045_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2012A&A...541A...5H <../../output/data/2012A%2526A...541A...5H/gammacat_2012A%2526A...541A...5H_000045_ds.yaml>`__
+
+* `2015A&A...577A.131H <../../output/data/2015A%2526A...577A.131H/gammacat_2015A%2526A...577A.131H_000045_ds.yaml>`__

@@ -1,0 +1,29 @@
+:orphan:
+
+Source: SNR G349.7+0.2
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2015A&A...574A.100H <../../output/data/2015A%2526A...574A.100H/gammacat_2015A%2526A...574A.100H_000098_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2015A&A...574A.100H <../../output/data/2015A%2526A...574A.100H/gammacat_2015A%2526A...574A.100H_000098_ds.yaml>`__

@@ -1,0 +1,33 @@
+:orphan:
+
+Source: Cassiopeia A
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2010ApJ...714..163A <../../output/data/2010ApJ...714..163A/gammacat_2010ApJ...714..163A_000153_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2007A&A...474..937A <../../output/data/2007A%2526A...474..937A/gammacat_2007A%2526A...474..937A_000153_ds.yaml>`__
+
+* `2010ApJ...714..163A <../../output/data/2010ApJ...714..163A/gammacat_2010ApJ...714..163A_000153_ds.yaml>`__
+
+* `2015arXiv151100309G <../../output/data/2015arXiv151100309G/gammacat_2015arXiv151100309G_000153_ds.yaml>`__

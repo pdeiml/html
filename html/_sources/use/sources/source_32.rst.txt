@@ -1,0 +1,29 @@
+:orphan:
+
+Source: RX J0648.7+1516
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2011ApJ...742..127A <../../output/data/2011ApJ...742..127A/gammacat_2011ApJ...742..127A_000032_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2011ApJ...742..127A <../../output/data/2011ApJ...742..127A/gammacat_2011ApJ...742..127A_000032_ds.yaml>`__

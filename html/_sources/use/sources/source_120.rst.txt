@@ -1,0 +1,29 @@
+:orphan:
+
+Source: HESS J1831-098
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2011ICRC....7..244S <../../output/data/2011ICRC....7..244S/gammacat_2011ICRC....7..244S_000120_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2011ICRC....7..244S <../../output/data/2011ICRC....7..244S/gammacat_2011ICRC....7..244S_000120_ds.yaml>`__

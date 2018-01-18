@@ -1,0 +1,33 @@
+:orphan:
+
+Source: SNR G0.9+0.1
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2005A&A...432L..25A <../../output/data/2005A%2526A...432L..25A/gammacat_2005A%2526A...432L..25A_000110_sed.ecsv>`__
+
+* `2016ApJ...821..129A <../../output/data/2016ApJ...821..129A/gammacat_2016ApJ...821..129A_000110_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2005A&A...432L..25A <../../output/data/2005A%2526A...432L..25A/gammacat_2005A%2526A...432L..25A_000110_ds.yaml>`__
+
+* `2016ApJ...821..129A <../../output/data/2016ApJ...821..129A/gammacat_2016ApJ...821..129A_000110_ds.yaml>`__

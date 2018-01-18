@@ -1,0 +1,29 @@
+:orphan:
+
+Source: AP Librae
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2015A&A...573A..31H <../../output/data/2015A%2526A...573A..31H/gammacat_2015A%2526A...573A..31H_000080_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2015A&A...573A..31H <../../output/data/2015A%2526A...573A..31H/gammacat_2015A%2526A...573A..31H_000080_ds.yaml>`__

@@ -1,0 +1,29 @@
+:orphan:
+
+Source: RBS 0413
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2012ApJ...750...94A <../../output/data/2012ApJ...750...94A/gammacat_2012ApJ...750...94A_000017_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2012ApJ...750...94A <../../output/data/2012ApJ...750...94A/gammacat_2012ApJ...750...94A_000017_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2012ApJ...750...94A <../../output/data/2012ApJ...750...94A/gammacat_2012ApJ...750...94A_000017_ds.yaml>`__

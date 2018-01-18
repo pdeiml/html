@@ -1,0 +1,35 @@
+:orphan:
+
+Source: 1ES 1215+303
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2012A&A...544A.142A <../../output/data/2012A%2526A...544A.142A/gammacat_2012A%2526A...544A.142A_000053_sed.ecsv>`__
+
+* `2013ApJ...779...92A <../../output/data/2013ApJ...779...92A/gammacat_2013ApJ...779...92A_000053_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* `2013ApJ...779...92A <../../output/data/2013ApJ...779...92A/gammacat_2013ApJ...779...92A_000053_lc.ecsv>`__
+
+
+Datasets
+--------
+
+
+* `2012A&A...544A.142A <../../output/data/2012A%2526A...544A.142A/gammacat_2012A%2526A...544A.142A_000053_ds.yaml>`__
+
+* `2013ApJ...779...92A <../../output/data/2013ApJ...779...92A/gammacat_2013ApJ...779...92A_000053_ds.yaml>`__
+
+* `2017ApJ...836..205A <../../output/data/2017ApJ...836..205A/gammacat_2017ApJ...836..205A_000053_ds.yaml>`__

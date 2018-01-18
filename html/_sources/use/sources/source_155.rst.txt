@@ -1,0 +1,33 @@
+:orphan:
+
+Source: H 2356-309
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2010A&A...516A..56H <../../output/data/2010A%2526A...516A..56H/gammacat_2010A%2526A...516A..56H_000155_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2006A&A...455..461A <../../output/data/2006A%2526A...455..461A/gammacat_2006A%2526A...455..461A_000155_ds.yaml>`__
+
+* `2006Natur.440.1018A <../../output/data/2006Natur.440.1018A/gammacat_2006Natur.440.1018A_000155_ds.yaml>`__
+
+* `2010A&A...516A..56H <../../output/data/2010A%2526A...516A..56H/gammacat_2010A%2526A...516A..56H_000155_ds.yaml>`__

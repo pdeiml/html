@@ -1,0 +1,29 @@
+:orphan:
+
+Source: PKS 0548-322
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* None
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2010A&A...521A..69A <../../output/data/2010A%2526A...521A..69A/gammacat_2010A%2526A...521A..69A_000028_ds.yaml>`__

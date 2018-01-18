@@ -1,0 +1,29 @@
+:orphan:
+
+Source: 1ES 0806+524
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2009ApJ...690L.126A <../../output/data/2009ApJ...690L.126A/gammacat_2009ApJ...690L.126A_000036_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2009ApJ...690L.126A <../../output/data/2009ApJ...690L.126A/gammacat_2009ApJ...690L.126A_000036_ds.yaml>`__

@@ -1,0 +1,51 @@
+:orphan:
+
+Source: Galactic Centre
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2004A&A...425L..13A <../../output/data/2004A%2526A...425L..13A/gammacat_2004A%2526A...425L..13A_000106_sed.ecsv>`__
+
+* `2006PhRvL..97v1102A <../../output/data/2006PhRvL..97v1102A/gammacat_2006PhRvL..97v1102A_000106_sed.ecsv>`__
+
+* `2009A&A...503..817A <../../output/data/2009A%2526A...503..817A/gammacat_2009A%2526A...503..817A_000106_sed.ecsv>`__
+
+* `2016ApJ...821..129A <../../output/data/2016ApJ...821..129A/gammacat_2016ApJ...821..129A_000106_sed.ecsv>`__
+
+* `2016Natur.531..476H <../../output/data/2016Natur.531..476H/gammacat_2016Natur.531..476H_000106_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2004A&A...425L..13A <../../output/data/2004A%2526A...425L..13A/gammacat_2004A%2526A...425L..13A_000106_ds.yaml>`__
+
+* `2006ApJ...638L.101A <../../output/data/2006ApJ...638L.101A/gammacat_2006ApJ...638L.101A_000106_ds.yaml>`__
+
+* `2008A&A...492L..25A <../../output/data/2008A%2526A...492L..25A/gammacat_2008A%2526A...492L..25A_000106_ds.yaml>`__
+
+* `2009A&A...503..817A <../../output/data/2009A%2526A...503..817A/gammacat_2009A%2526A...503..817A_000106_ds.yaml>`__
+
+* `2014ApJ...790..149A <../../output/data/2014ApJ...790..149A/gammacat_2014ApJ...790..149A_000106_ds.yaml>`__
+
+* `2016ApJ...821..129A <../../output/data/2016ApJ...821..129A/gammacat_2016ApJ...821..129A_000106_ds.yaml>`__
+
+* `2016Natur.531..476H <../../output/data/2016Natur.531..476H/gammacat_2016Natur.531..476H_000106_ds.yaml>`__
+
+* `2017A&A...601A..33A <../../output/data/2017A%2526A...601A..33A/gammacat_2017A%2526A...601A..33A_000106_ds.yaml>`__

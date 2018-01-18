@@ -1,0 +1,29 @@
+:orphan:
+
+Source: RGB J0710+591
+--------------------------------
+
+Basic source info
+-----------------
+ * Extragalactic source 
+
+SEDs
+----
+
+
+* `2010ApJ...715L..49A <../../output/data/2010ApJ...715L..49A/gammacat_2010ApJ...715L..49A_000034_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2010ApJ...715L..49A <../../output/data/2010ApJ...715L..49A/gammacat_2010ApJ...715L..49A_000034_ds.yaml>`__

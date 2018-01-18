@@ -1,0 +1,29 @@
+:orphan:
+
+Source: CTB 37A
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2008A&A...490..685A <../../output/data/2008A%2526A...490..685A/gammacat_2008A%2526A...490..685A_000097_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2008A&A...490..685A <../../output/data/2008A%2526A...490..685A/gammacat_2008A%2526A...490..685A_000097_ds.yaml>`__

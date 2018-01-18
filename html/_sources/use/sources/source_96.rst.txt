@@ -1,0 +1,37 @@
+:orphan:
+
+Source: RX J1713.7-3946
+--------------------------------
+
+Basic source info
+-----------------
+ * Galactic source 
+
+SEDs
+----
+
+
+* `2004Natur.432...75A <../../output/data/2004Natur.432...75A/gammacat_2004Natur.432...75A_000096_sed.ecsv>`__
+
+* `2016arXiv160908671H <../../output/data/2016arXiv160908671H/gammacat_2016arXiv160908671H_000096_sed.ecsv>`__
+
+
+
+Lightcurves
+-----------
+
+
+* None
+
+
+Datasets
+--------
+
+
+* `2004Natur.432...75A <../../output/data/2004Natur.432...75A/gammacat_2004Natur.432...75A_000096_ds.yaml>`__
+
+* `2006A&A...449..223A <../../output/data/2006A%2526A...449..223A/gammacat_2006A%2526A...449..223A_000096_ds.yaml>`__
+
+* `2007A&A...464..235A <../../output/data/2007A%2526A...464..235A/gammacat_2007A%2526A...464..235A_000096_ds.yaml>`__
+
+* `2016arXiv160908671H <../../output/data/2016arXiv160908671H/gammacat_2016arXiv160908671H_000096_ds.yaml>`__

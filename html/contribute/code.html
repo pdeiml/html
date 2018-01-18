@@ -1,0 +1,356 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Code &mdash; gamma-cat  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="author" title="About these documents"
+              href="../about.html"/>
+        <link rel="index" title="Index"
+              href="../genindex.html"/>
+        <link rel="search" title="Search" href="../search.html"/>
+    <link rel="top" title="gamma-cat  documentation" href="../index.html"/>
+        <link rel="next" title="Details" href="details.html"/>
+        <link rel="prev" title="Workflow" href="workflow.html"/> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> gamma-cat
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">About</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../about.html">About</a></li>
+</ul>
+<p class="caption"><span class="caption-text">User Documentation</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../use/index.html">Overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../use/index.html#source-catalog">Source catalog</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../use/source_list.html">Data collection by source</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../use/publication_list.html">Data collection by publication</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../stats/index.html">Stats</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../changes.html">Changes</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Contributor Documentation</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="introduction.html">Introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="input.html">Input</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workflow.html">Workflow</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Code</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#make-py">make.py</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#gammacat-package">gammacat package</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#tests">Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#tools">Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#website-build">Website build</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="details.html">Details</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">gamma-cat</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../index.html">Docs</a> &raquo;</li>
+        
+      <li>Code</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../_sources/contribute/code.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="code">
+<h1>Code<a class="headerlink" href="#code" title="Permalink to this headline">¶</a></h1>
+<p>This page contains information about the whole code stored in the gamma-cat repository.</p>
+<div class="section" id="make-py">
+<h2>make.py<a class="headerlink" href="#make-py" title="Permalink to this headline">¶</a></h2>
+<p>There is a command line interface to run the gamma-cat scripts,
+the <code class="docutils literal"><span class="pre">make.py</span></code> file in the top-level folder.</p>
+<p>To see the available sub-commands and options:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span>$ ./make.py --help
+</pre></div>
+</div>
+<p>To run the full pipeline, i.e. generate all output files and run all checks:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span>$ ./make.py all
+</pre></div>
+</div>
+<p>After adding/ changing data in the input folder, one should always execute:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span>$ ./make.py checks
+</pre></div>
+</div>
+<p>which checks the format/ structure of the input files.</p>
+</div>
+<div class="section" id="gammacat-package">
+<h2>gammacat package<a class="headerlink" href="#gammacat-package" title="Permalink to this headline">¶</a></h2>
+<p>The <code class="docutils literal"><span class="pre">make.py</span></code> command line interface just imports and executes functions and classes
+from the <code class="docutils literal"><span class="pre">gammacat</span></code> Python package (i.e. the <code class="docutils literal"><span class="pre">.py</span></code> files in the folder with name <code class="docutils literal"><span class="pre">gammacat</span></code>).</p>
+<p>We list the modules in <code class="docutils literal"><span class="pre">gammacat</span></code> and comment on the code organisation.</p>
+<p>The following are more basic modules:</p>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">utils.py</span></code> has some helper utility functions (e.g. for JSON / YAML / ECSV I/O)</li>
+<li><code class="docutils literal"><span class="pre">modeling.py</span></code> has a <code class="docutils literal"><span class="pre">Parameter</span></code> and <code class="docutils literal"><span class="pre">ParameterList</span></code> class to help process
+input spatial and spectral source models from the YAML files.</li>
+<li><code class="docutils literal"><span class="pre">info.py</span></code> has some helpers for versions, filenames, …</li>
+<li><code class="docutils literal"><span class="pre">sed.py</span></code> has a class to process and validate the spectral energy distributions (SEDs)
+in the input folder. The SEDs in the output folder can be read directly with
+<code class="docutils literal"><span class="pre">gammapy.spectrum.FluxPoints</span></code>.</li>
+<li><code class="docutils literal"><span class="pre">lightcurve.py</span></code> has a class to process and validate the lightcurves in the input folder.
+The lightcurves in the output folder can be read directly with <code class="docutils literal"><span class="pre">gammapy.time.LightCurve</span></code>.</li>
+</ul>
+<p>In additions there are classes in <code class="docutils literal"><span class="pre">gammapy.catalog.gammacat</span></code> that are used in the <code class="docutils literal"><span class="pre">gammacat</span></code>
+scripts to process the data: <code class="docutils literal"><span class="pre">GammaCatResource</span></code>, <code class="docutils literal"><span class="pre">GammaCatResourceIndex</span></code>, <code class="docutils literal"><span class="pre">GammaCatDatasetCollection</span></code>.</p>
+<p>Then there is a hierarchy of higher-level modules (that import from the basic modules
+and modules representing lower-level steps in the processing pipeline):</p>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">input.py</span></code> has classes to read / clean up / process the data in the <code class="docutils literal"><span class="pre">input</span></code> folder.</li>
+<li><code class="docutils literal"><span class="pre">collection.py</span></code> has classes to create the files in the <code class="docutils literal"><span class="pre">output</span></code> folder
+(only the dataset files and index files, not the catalog files).</li>
+<li><code class="docutils literal"><span class="pre">cat.py</span></code> is the code to create the catalog files</li>
+<li><code class="docutils literal"><span class="pre">checks.py</span></code> is the code to run checks.
+At the moment the methods there just dispatch to methods called <code class="docutils literal"><span class="pre">validate</span></code> or <code class="docutils literal"><span class="pre">check</span></code>
+in lower-level modules (such as <code class="docutils literal"><span class="pre">gammacat.input</span></code>), and the actual checks are thus
+scattered throughout the <code class="docutils literal"><span class="pre">gammacat</span></code> modules. There’s also checks on data content in
+<code class="docutils literal"><span class="pre">gammacat/tests</span></code> (which is probably a bad idea, but pytest is convenient to have asserts)</li>
+</ul>
+</div>
+<div class="section" id="tests">
+<h2>Tests<a class="headerlink" href="#tests" title="Permalink to this headline">¶</a></h2>
+<p>There is a folder <code class="docutils literal"><span class="pre">gammacat/tests</span></code> with some unit tests for the code in the <code class="docutils literal"><span class="pre">gammacat</span></code> package,
+that can be executed via <code class="docutils literal"><span class="pre">python</span> <span class="pre">-m</span> <span class="pre">pytest</span> <span class="pre">gammacat/tests</span></code></p>
+<p>We don’t have the relation quite figure out, what goes where:</p>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">gammacat/tests</span></code></li>
+<li><code class="docutils literal"><span class="pre">gammapy/catalog/tests/test_gammacat.py</span></code></li>
+<li>The various check / validate methods throughout <code class="docutils literal"><span class="pre">gammacat</span></code> and executed via <code class="docutils literal"><span class="pre">./make.py</span> <span class="pre">check</span></code>.</li>
+</ul>
+</div>
+<div class="section" id="tools">
+<h2>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h2>
+<p>The following tool is helpful to lint YAML files:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/adrienverge/yamllint">yamllint</a></li>
+</ul>
+<p>TODO: it’s too picky, showing errors for things that are OK.
+Figure out how to make it less picky and document that here.</p>
+</div>
+<div class="section" id="website-build">
+<h2>Website build<a class="headerlink" href="#website-build" title="Permalink to this headline">¶</a></h2>
+<p>The <cite>gamma-cat</cite> website is a static website generated by Python and Sphinx.</p>
+<p>We have a <a class="reference external" href="tests/index.html">Sphinx test page</a> where we can try out things locally
+and check if they also work on ReadTheDocs. It’s an orphan page, i.e. doesn’t show up
+for normal users.</p>
+<p>We use several Sphinx extensions, and also have our own in <cite>gammacat/sphinx/exts</cite>.</p>
+<p>More info soon … for now this is just a link collection:</p>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt><code class="docutils literal"><span class="pre">sphinxcontrib.rawfiles</span></code></dt>
+<dd><ul class="first last">
+<li>Useful example. Not very useful directly, because can’t control destination of the copy!?</li>
+<li>Code: <a class="reference external" href="https://bitbucket.org/birkenfeld/sphinx-contrib/src/master/rawfiles/sphinxcontrib/rawfiles.py">https://bitbucket.org/birkenfeld/sphinx-contrib/src/master/rawfiles/sphinxcontrib/rawfiles.py</a></li>
+<li>PyPI: <a class="reference external" href="https://pypi.python.org/pypi/sphinxcontrib-rawfiles/">https://pypi.python.org/pypi/sphinxcontrib-rawfiles/</a></li>
+<li>Although for now, this is working for what I need: <a class="reference external" href="http://www.sphinx-doc.org/en/1.5.1/config.html#confval-html_extra_path">http://www.sphinx-doc.org/en/1.5.1/config.html#confval-html_extra_path</a></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>Looks very useful! <a class="reference external" href="http://sphinxcontribdatatemplates.readthedocs.io/en/latest/">http://sphinxcontribdatatemplates.readthedocs.io/en/latest/</a></li>
+<li>A good Sphinx table extension would be useful: <a class="reference external" href="https://github.com/sphinx-doc/sphinx/issues/786">https://github.com/sphinx-doc/sphinx/issues/786</a></li>
+<li>Not sure if this is useful! <a class="reference external" href="https://pythonhosted.org/sphinxcontrib-restbuilder/">https://pythonhosted.org/sphinxcontrib-restbuilder/</a></li>
+<li>Maybe: <a class="reference external" href="https://pypi.python.org/pypi/sphinxcontrib-jsoncall">https://pypi.python.org/pypi/sphinxcontrib-jsoncall</a></li>
+<li>Looks interesting, probably not useful here: <a class="reference external" href="https://jsdoc-toolkit-rst-template.readthedocs.io/en/latest/">https://jsdoc-toolkit-rst-template.readthedocs.io/en/latest/</a></li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="details.html" class="btn btn-neutral float-right" title="Details" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="workflow.html" class="btn btn-neutral" title="Workflow" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2016, gamma-cat contributors.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>
